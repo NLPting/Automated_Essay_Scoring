@@ -1,0 +1,16 @@
+A set of Bilingual Word Embeddings for English and Mandarin Chinese 
+v1.0
+
+-----------------
+Mandarin Chinese (100,000 words, with UNKNOWN): 
+[Initialized from MT alignments] aligned_init_Zh_vectors.txt
+[Initialized from alignments; trained using monolingual objective] mono_trained_Zh_vectors.txt
+[Initialized from alignments; trained using bilingual objective] biling_trained_Zh_vectors.txt
+-----------------
+English (100,229 words, UNKNOWN vector in the above sets): 
+En_vectors.txt
+-----------------
+
+Bilingual Word Embeddings for Phrase-Based Machine Translation
+Will Y. Zou, Richard Socher, Daniel Cer and Christopher D. Manning
+EMNLP 2013
